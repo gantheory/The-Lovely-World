@@ -1,4 +1,4 @@
-#The Lovely World
+# The Lovely World
 NOTE: THIS GAME IS ONLY FOR MAX OSX ( El Captain 10.11.4 )   
 
 Documents/  
